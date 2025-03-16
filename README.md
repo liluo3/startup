@@ -1,2 +1,2 @@
 # startup
-this is test only
+this is test only.
